@@ -1,0 +1,53 @@
+KTM Mahanagar 2nd day class:
+Meet-up for community gathering on Nepal. 
+Turnitin-similarity patta lagaune (palagrism).TU la masters ma use garna thalya xa AI tool ho .
+FINANCE, MARKETING, AGRICULTURE, MEDICAL PREDECTION SYSTEM, TRANSPORTATION, TRAFFIC MANAGEMENT (SIGNAL) OPTIMIZATION USING VISION AI, RESEACH AND DEVELOPMENT , BUSINESS HUB(CHATBOT), FRAUD DETECTION USING AI , HUMAN RESOURCE MANAGEMENT , KNOWLEDGE CREATION , (MEDICAL , AGRICULTURE ,FINTECH , TELECOMMUNICATION, TRANSPORT ARE THE MAIN POSSIBLE SECTOR FOR AI)
+NLP(NATURAL LANGUAGE PROCESSOR)-TEXT, COMPUTER VISION - IMAGE TRAINNING 
+SSAVR.COM FOR SHARING THE FILE ALONG THE SAME WIFI NETWORK .
+
+DAY-3:
+Kahoot for quiz ;
+ Variables and data types:
+
+
+Day-4
+-list and its operations.
+-list vs tuples
+* Set {},();
+-set operations
+* Dictioneries in python
+*String Manupulation
+#Homework : Find area of circle?
+
+Day-5 
+#Modular programming for AI
+-NumPy- for matrix multiplication and calculating the matrix calculations etc
+-Pandas- import stored data and clean them like(null value, duplicate) sql file html documents can be imported .
+OS directly manipulate the file while pandas first import the file and convert it into python and then only manipulate them.
+IMP->At least 10 functions should be known from numpy and pandas in the industry -# should be able to do yourself for any industry.
+ 
+#Multiple modules can be imported at a time in python.
+#Common  AI libraries Import;
+*Data Manipulation
+-NumPy,
+-Pandas,
+
+*Visualization
+-matplotlib, 
+-seaborn,
+
+*Machine Learning
+-sklearn modules,- model train (all functionalities are used in machine learning are in sklearn);
+
+*Deep Learning
+-tensorflow, 
+-keras,
+
+#element wise multiplication and matrix multiplication heryara aune?
+
+
+
+
+
+
+
